@@ -2,7 +2,7 @@
 ## Microsoft Power BI Dashboard
 ![image](https://github.com/JoshuaSequeira2000/SQL-Project3-Exploratory-Data-Analysis/assets/92262753/9b444361-4ba1-4f4f-8cdb-837f3cc4a860)
 
-## Complete code attached - Code - Pizza Restaurant Database Analysis.sql
+## Complete code attached - Pizza Restaurant Database Analysis.sql
 
 ## Data Insights Using SQL.
 
