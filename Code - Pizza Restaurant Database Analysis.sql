@@ -1,10 +1,10 @@
 -- Creating a database. 
--- Pizza Restraunt Database.
-create database PizzaRestrauntDatabase
+-- Pizza Restaurant Database.
+create database PizzaRestaurantDatabase
 GO
 
 -- Selecting the Database.
-use PizzaRestrauntDatabase
+use PizzaRestaurantDatabase
 GO
 
 -- Creating tables and inserting data.
