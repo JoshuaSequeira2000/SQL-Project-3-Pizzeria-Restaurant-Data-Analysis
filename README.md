@@ -81,7 +81,25 @@
 ### 23) Average number of pizzas sold each day.
 ![image](https://github.com/JoshuaSequeira2000/SQL-Project3-Exploratory-Data-Analysis/assets/92262753/b86e10a6-97db-449b-a520-452166017278)
 
-### 24)
+### 24) Average cart value of a customer.
+![image](https://github.com/JoshuaSequeira2000/SQL-Project3-Exploratory-Data-Analysis/assets/92262753/877c6ad5-dd0f-4175-a728-7afe5abd8822)
+
+### 25) Total revenue generated from selling Pizzas in 2015.
+![image](https://github.com/JoshuaSequeira2000/SQL-Project3-Exploratory-Data-Analysis/assets/92262753/57aef6e8-18fe-4d3e-8297-6aba6b2b84ae)
+
+### 26) Total revenue generated from each pizza category.
+![image](https://github.com/JoshuaSequeira2000/SQL-Project3-Exploratory-Data-Analysis/assets/92262753/e22062d6-c950-49ac-b3d4-64d38cbc4fe2)
+
+### 27) Total revenue generated based on pizza size.
+![image](https://github.com/JoshuaSequeira2000/SQL-Project3-Exploratory-Data-Analysis/assets/92262753/a49ee141-1b7b-4547-8148-1d6dbf8f9664)
+
+### 28) Best-selling and worst-selling pizzas, based on revenue.
+![image](https://github.com/JoshuaSequeira2000/SQL-Project3-Exploratory-Data-Analysis/assets/92262753/dd05dd47-ed2a-4797-96cd-f57687ba2dd6)
+![image](https://github.com/JoshuaSequeira2000/SQL-Project3-Exploratory-Data-Analysis/assets/92262753/7eee609f-d9f9-4783-a118-6658f524ec1a)
+
+
+
+
 
 
 
